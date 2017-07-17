@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jooqtemplate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jooqtemplate-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="jooqtemplate:war exploded" />
+    </root>
+  </artifact>
+</component>
